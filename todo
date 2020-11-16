@@ -1,0 +1,25 @@
+project management (Bird flying though a ring)
+
+Framework/objects
+    - install pygame @done
+    - create a box @done
+    - create landcape @done
+    - create ring 
+    - create bird
+
+Physics
+    - create gravity 
+    - create birds movement 
+
+Reforcement learning 
+    - create a agent 
+    - policy use diterministic (state is directly liked to the agents actions)
+    - use a value function 
+    - reward the agent when passing the ring 
+    - use absolute view 
+
+
+
+
+
+    
